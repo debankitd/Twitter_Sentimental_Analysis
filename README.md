@@ -122,7 +122,17 @@ o	Analysed the  Sentiments on the Cleaned Data
    3. To provide the social media platforms a tool for keeping track on their User's sentiments.
    
    
-   
+   # <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Challenges and Key Learnings
+      1. Sentiment Analysis: Sentiment analysis on social media data can be challenging due to the informal and often ambiguous language used by users. Sarcasm, irony, and context-dependent sentiment 
+        expressions can be difficult to capture accurately.
     
-
+      2. Sentiment Analysis Techniques: Learning various techniques and libraries available for sentiment analysis, such as NLTK, Regular Expressions (RE), and pre-trained models like VADER.
+    
+      3. Data Cleaning: Cleaning and preparing the dataset for analysis can be a challenging task, especially when dealing with user-generated content from social media platforms. Handling missing data, noisy 
+        text, and inconsistencies in user reviews can be time-consuming.
+    
+      4. Model Selection: Choosing the right Machine Learning model is crucial for achieving accurate sentiment predictions. Experimenting with different models like Logistic Regression, Decision Trees, and 
+         Random Forests requires a good understanding of their strengths and weaknesses.    
+        
+    
 ![image](https://user-images.githubusercontent.com/108053296/189940016-b2f9ffd2-ff3c-46a7-90a0-ac2929953469.png)
