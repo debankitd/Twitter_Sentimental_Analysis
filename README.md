@@ -42,6 +42,20 @@
 
 # <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Data Preperation
 
+![image](https://github.com/debankitd/Twitter_Sentimental_Analysis/assets/96534823/fb5420b1-e478-4e85-9668-d64b943d80c8)
+
+![image](https://github.com/debankitd/Twitter_Sentimental_Analysis/assets/96534823/021713d9-eee8-4a01-aeb4-9ac858566af7)
+
+![image](https://github.com/debankitd/Twitter_Sentimental_Analysis/assets/96534823/7aa57b57-112c-4327-8991-5da7810194ec)
+
+![image](https://github.com/debankitd/Twitter_Sentimental_Analysis/assets/96534823/4be40a48-09c0-41c8-b341-41552230ccd9)
+
+![image](https://github.com/debankitd/Twitter_Sentimental_Analysis/assets/96534823/d3b41a1f-034b-4edf-980f-493ed7ae3f49)
+
+![image](https://github.com/debankitd/Twitter_Sentimental_Analysis/assets/96534823/68809d5c-c5fe-47a2-b6b5-9306dbcc0ea8)
+
+![image](https://github.com/debankitd/Twitter_Sentimental_Analysis/assets/96534823/90a81813-4618-426e-8a28-ae60e9927705)
+
 #  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
    
     
@@ -56,6 +70,17 @@
 <br>
 
 
+ #  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Metrics
+![pyhton-pandas](https://user-images.githubusercontent.com/106439762/177094844-d74edfa1-823d-4f17-8d94-3600e058cf1e.svg)
+   
+   1. The Accuracy Score of the Logistic Regression Model built for predicting Sentiments of the Users is found around 76% and the F1 Score is found 75%.
+   
+   2. The Accuracy Score of the Decision Tree Model built for predicting Sentiments of the Users is found around 73% and also the F1 Score is found 73%.
+   
+   3. The Accuracy Score of the Random Forest Model built for predicting Sentiments of the Users is found around 90% and also the F1 Score is found 90%.
+   
+   <br>
+
 
 # <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Conclusions
    
@@ -69,16 +94,7 @@
    
    <br>
    
-   #  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Metrics
-![pyhton-pandas](https://user-images.githubusercontent.com/106439762/177094844-d74edfa1-823d-4f17-8d94-3600e058cf1e.svg)
-   
-   1. The Accuracy Score of the Logistic Regression Model built for predicting Sentiments of the Users is found around 76% and the F1 Score is found 75%.
-   
-   2. The Accuracy Score of the Decision Tree Model built for predicting Sentiments of the Users is found around 73% and also the F1 Score is found 73%.
-   
-   3. The Accuracy Score of the Random Forest Model built for predicting Sentiments of the Users is found around 90% and also the F1 Score is found 90%.
-   
-   <br>
+  
    
    
    #  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Future Scope
