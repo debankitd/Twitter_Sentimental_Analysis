@@ -21,20 +21,6 @@
 | **TTSAP_Final_Data.csv**  | This file contains the final data drawn out after the Data Cleaning.  |
 <br>
 
-
-#  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
-   
-    
-    o       Analysed the Accuracy Scores of Different ML Models for predicting the Sentiments.
-    
-    o	Also analysed the F1 Scores, Precision Scores and Recall Scores of Different ML Models by creating their Classification Reports.
-     
-    o	Performed comparison analysis to find out the Best Fit Machine Learning Model suitable for this task.
-  
-    o	Analysed the relationship between the sentiments and ratings of the users.
-
-<br>
-
 # <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
 
     1. Started with cleaning the Data using Pandas by Dropping the Duplicates and Null values.
@@ -53,7 +39,25 @@
    
 <br>
 
-# <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Findings
+
+# <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Data Preperation
+
+#  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
+   
+    
+    o       Analysed the Accuracy Scores of Different ML Models for predicting the Sentiments.
+    
+    o	Also analysed the F1 Scores, Precision Scores and Recall Scores of Different ML Models by creating their Classification Reports.
+     
+    o	Performed comparison analysis to find out the Best Fit Machine Learning Model suitable for this task.
+  
+    o	Analysed the relationship between the sentiments and ratings of the users.
+
+<br>
+
+
+
+# <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Conclusions
    
    1. Around 38% of the users have Negative Sentiments, whereas rest 62% have Positive Sentiments for Twitter's Services. This shows healthy User Satisfaction.
    
