@@ -57,17 +57,31 @@
 ![image](https://github.com/debankitd/Twitter_Sentimental_Analysis/assets/96534823/90a81813-4618-426e-8a28-ae60e9927705)
 
 #  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
-   
-    
-    o       Analysed the Accuracy Scores of Different ML Models for predicting the Sentiments.
-    
-    o	Also analysed the F1 Scores, Precision Scores and Recall Scores of Different ML Models by creating their Classification Reports.
-     
-    o	Performed comparison analysis to find out the Best Fit Machine Learning Model suitable for this task.
-  
-    o	Analysed the relationship between the sentiments and ratings of the users.
 
-<br>
+o       Analysed the Accuracy Scores of Different ML Models for predicting the Sentiments.
+
+o	Also analysed the F1 Scores, Precision Scores and Recall Scores of Different ML Models by creating their Classification Reports.
+
+o	Performed comparison analysis to find out the Best Fit Machine Learning Model suitable for this task.
+
+o	Analysed the relationship between the sentiments and ratings of the users.
+
+o	Analysed the  Sentiments on the Cleaned Data 
+
+![image](https://github.com/debankitd/Twitter_Sentimental_Analysis/assets/96534823/841c8cb1-baa8-4d94-970f-d41ed73a9e41)
+
+
+# <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> ML Model Preparation
+
+![image](https://github.com/debankitd/Twitter_Sentimental_Analysis/assets/96534823/66ef4c11-ea0a-4994-8ade-99d63c5b21f6)
+
+![image](https://github.com/debankitd/Twitter_Sentimental_Analysis/assets/96534823/ba2b6697-e873-45bc-ade5-69e45807950a)
+
+![image](https://github.com/debankitd/Twitter_Sentimental_Analysis/assets/96534823/1cd9ffb9-b2c9-4394-a933-900d336d81c3)
+
+![image](https://github.com/debankitd/Twitter_Sentimental_Analysis/assets/96534823/a513b8d8-bc37-4cd8-a181-80a26f651271)
+
+
 
 
  #  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Metrics
